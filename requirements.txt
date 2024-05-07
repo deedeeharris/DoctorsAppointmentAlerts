@@ -1,0 +1,6 @@
+pyppeteer
+pandas
+asyncio
+nest_asyncio
+requests
+beautifulsoup4
